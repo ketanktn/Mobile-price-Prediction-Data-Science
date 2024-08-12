@@ -77,6 +77,8 @@ A machine learning model is a mathematical framework or algorithm designed to le
 # What is Linear Regression?
 Linear regression predicts the relationship between two variables by assuming they have a straight-line connection. It finds the best line that minimizes the differences between predicted and actual values. Used in fields like economics and finance, it helps analyze and forecast data trends. Linear regression can also involve several variables (multiple linear regression) or be adapted for yes/no questions (logistic regression).
 
+
+
 # What is Random forest?
 Random forest, a popular machine learning algorithm developed by Leo Breiman and Adele Cutler, merges the outputs of numerous decision trees to produce a single outcome. Its popularity stems from its user-friendliness and versatility, making it suitable for both classification and regression tasks.
 
